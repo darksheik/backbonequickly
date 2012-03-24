@@ -13,3 +13,5 @@ gem 'yajl-ruby', '1.0.0'
 
 gem 'rb-fsevent', '~>0.4.3'
 gem 'libnotify'
+
+gem 'unicorn'
