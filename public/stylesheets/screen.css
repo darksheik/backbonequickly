@@ -3118,7 +3118,7 @@ ul#todo li {
 /* line 39, ../../app/stylesheets/screen.sass */
 #search {
   width: 799px;
-  background: url(/images/search.png) no-repeat 770px;
+  background: url(../images/search.png) no-repeat 770px;
   height: 50px;
   font-size: 2em;
   margin-top: 30px;
